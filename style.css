@@ -1,0 +1,15 @@
+body{
+	background: black;
+}
+#container{
+	background: <img src="images/DSC_0104.jpg" width="500" height="700">
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	border: 5px solid ghostwhite;
+	border-radius: 30px;
+	}
+	
